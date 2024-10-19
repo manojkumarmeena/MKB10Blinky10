@@ -1,2 +1,2 @@
 # mkb10blinky10
- Blinks LEDS on MKB Board.
+blinks led on mkb10 board.
